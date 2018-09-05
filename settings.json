@@ -1,8 +1,8 @@
 {
-	"room": "NB3's Community",
+	"room": "EDM Spot",
 	"author": "Laquett",
-	"icon": "https://nb3-music.github.io/icons/room.png",
-	"css": "https://nb3-music.github.io/main.css",
+	"icon": "https://edm-spot.github.io/icons/room.png",
+	"css": "https://edm-spot.github.io/main.css",
 	"rules": {
 		"allowAutorespond": false,
 		"allowAutowoot": true,
@@ -26,20 +26,20 @@
 		"user": null
 	},
 	"images": {
-		"background": "https://nb3-music.github.io/background/nb3DJStage.jpg",
-		"playback": "https://nb3-music.github.io/background/nb3DJvideo.png",
+		"background": "https://edm-spot.github.io/background/nb3DJStage.jpg",
+		"playback": "https://edm-spot.github.io/background/nb3DJvideo.png",
 		"admin": null,
 		"ambassador": null,
-		"host": "https://nb3-music.github.io/icons/host.png",
-		"cohost": "https://nb3-music.github.io/icons/co-host.png",
-		"manager": "https://nb3-music.github.io/icons/manager.png",
-		"bouncer": "https://nb3-music.github.io/icons/bouncer.png",
-		"rdj": "https://nb3-music.github.io/icons/rdj.png",
+		"host": "https://edm-spot.github.io/icons/host.png",
+		"cohost": "https://edm-spot.github.io/icons/co-host.png",
+		"manager": "https://edm-spot.github.io/icons/manager.png",
+		"bouncer": "https://edm-spot.github.io/icons/bouncer.png",
+		"rdj": "https://edm-spot.github.io/icons/rdj.png",
 		"subscriber": null,
 		"other": null
 	},
 	"emotes": {
-		"freshprincedance": "https://nb3-music.github.io/emotes/freshprincedance.gif",
-		"roohey": "https://nb3-music.github.io/emotes/rooHey.png"
+		"freshprincedance": "https://edm-spot.github.io/emotes/freshprincedance.gif",
+		"roohey": "https://edm-spot.github.io/emotes/rooHey.png"
 	}
 }
