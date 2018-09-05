@@ -1,5 +1,5 @@
-@import url("https://nb3-music.github.io/badges.css");
-@import url("https://nb3-music.github.io/vip.css");
+@import url("https://edm-spot.github.io/badges.css");
+@import url("https://edm-spot.github.io/vip.css");
 
 /* ----------------------------------------Main---------------------------------------- */
 #room .app-header,
@@ -208,9 +208,7 @@ div.message > div.msg > div.from > span.un {
 
 .message.role-host,
 .emote.role-host {
-    border-top: #F2693E 2px dotted;
     border-left: #F2693E 2px dotted;
-    border-bottom: #F2693E 2px dotted;
     border-right: #F2693E 2px dotted;
 }
 
