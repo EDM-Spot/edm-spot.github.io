@@ -181,6 +181,35 @@ div.message > div.msg > div.from > span.un {
     padding: 2px 7px 2px 7px !important;
 }
 
+/* Moderation Inline */
+#chat .moderation {
+    min-height: 0px !important;
+    background: rgba(34, 44, 62, 0.78) !important;
+}
+
+.moderation .msg .text {
+    display: inline !important;
+    padding-left: 5px !important;
+}
+
+#chat .cm.moderation .icon,
+#chat .cm.moderation .badge-box,
+.moderation .rs-chat-title,
+.moderation .rcs-user-info,
+.moderation .timestamp {
+    display: none !important;
+}
+
+#chat .moderation .contents,
+.moderation .msg .from,
+.moderation .msg .text {
+    display: inline !important;
+}
+
+.moderation .msg {
+    padding: 6px 6px 6px 16px !important;
+}
+
 /* Border */
 .message.role-dj,
 .emote.role-dj {
