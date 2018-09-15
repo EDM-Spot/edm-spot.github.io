@@ -312,10 +312,13 @@ div.message > div.msg > div.from > span.un {
 }
 
 /* Custom */
+
+/*
 #user-rollover.id-4093788 .username:hover,
 #chat [data-cid^="4093788-"] span.un.clickable:hover {
     animation: rainbow 10s infinite;
 }
+*/
 
 /* -------------------------------------Animations------------------------------------- */
 /* Chat Fade */
