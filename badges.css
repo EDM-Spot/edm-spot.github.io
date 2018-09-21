@@ -19,6 +19,7 @@
 #user-rollover.id-40333310 .badge-box i.bdg,
 .id-40333310 .badge-box i.bdg {
     background-image: url("https://image.ibb.co/b5b7Me/ezgif_com_resize.gif");
+    background-size: cover !important;
 }
 
 /* iHook */
