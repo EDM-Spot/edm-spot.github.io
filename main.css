@@ -323,6 +323,18 @@ div.message > div.msg > div.from > span.un {
 #user-rollover.id-13585808 .info .role span:after {
     content: ' / OtterBot Dev';
 }
+
+.id-13585808 .msg .from i.icon-chat-manager,
+#waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager,
+#user-rollover.id-13585808 .info .role i.icon-chat-manager,
+#user-lists .list.room .user.id-13585808 .icon-chat-manager {
+    background: url("https://edm-spot.github.io/icons/dev.png") no-repeat !important;
+}
+
+#user-rollover.id-13585808 .meta .thumb {
+    border-color: #ad1457 !important;
+}
+
 .id-13585808 .msg .from.manager .un,
 #chat [data-cid^="13585808-"] span.un.clickable,
 #waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager + span,
