@@ -141,7 +141,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 .emote.role-manager .text {
-    color: #ea099f;
+    color: #CC3333;
 }
 
 .emote.role-cohost .text {
@@ -225,8 +225,8 @@ div.message > div.msg > div.from > span.un {
 
 .message.role-manager,
 .emote.role-manager {
-    border-left: #ea099f 2px dotted;
-    border-right: #ea099f 2px dotted;
+    border-left: #CC3333 2px dotted;
+    border-right: #CC3333 2px dotted;
 }
 
 .message.role-cohost,
@@ -281,7 +281,7 @@ div.message > div.msg > div.from > span.un {
 .emote.role-manager .msg .text::selection,
 .message.role-manager .msg .text::-moz-selection,
 .emote.role-manager .msg .text::-moz-selection {
-    color: #ea099f;
+    color: #CC3333;
 }
 
 .message.role-bouncer .msg .text::selection,
