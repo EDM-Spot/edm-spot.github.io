@@ -137,7 +137,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 .emote.role-bouncer .text {
-    color: #3083FF;
+    color: #9B40E7;
 }
 
 .emote.role-manager .text {
@@ -219,8 +219,8 @@ div.message > div.msg > div.from > span.un {
 
 .message.role-bouncer,
 .emote.role-bouncer {
-    border-left: #3083FF 2px dotted;
-    border-right: #3083FF 2px dotted;
+    border-left: #9B40E7 2px dotted;
+    border-right: #9B40E7 2px dotted;
 }
 
 .message.role-manager,
@@ -263,12 +263,6 @@ div.message > div.msg > div.from > span.un {
     border-right-style: solid;
 }
 
-.message.role-host:hover,
-.emote.role-host:hover {
-    border-top-style: solid;
-    border-bottom-style: solid;
-}
-
 .message.role-host .msg .text::selection,
 .emote.role-host .msg .text::selection,
 .message.role-host .msg .text::-moz-selection,
@@ -294,7 +288,7 @@ div.message > div.msg > div.from > span.un {
 .emote.role-bouncer .msg .text::selection,
 .message.role-bouncer .msg .text::-moz-selection,
 .emote.role-bouncer .msg .text::-moz-selection {
-    color: #3083FF;
+    color: #9B40E7;
 }
 
 .message.role-dj .msg .text::selection,
@@ -321,7 +315,7 @@ div.message > div.msg > div.from > span.un {
 */
 
 #user-rollover.id-13585808 .info .role span:after {
-    content: ' / OtterBot Dev';
+    content: ' / OtterBot Daddy';
 }
 
 .id-13585808 .msg .from i.icon-chat-manager,
