@@ -99,3 +99,9 @@
 .id-34513858 .badge-box i.bdg {
     background-image: url("https://edm-spot.github.io/badges/zarcas.gif");
 }
+
+/* Dukc */
+#user-rollover.id-8203880 .badge-box i.bdg,
+.id-8203880 .badge-box i.bdg {
+    background-image: url("https://edm-spot.github.io/badges/dukc.gif");
+}
