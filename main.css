@@ -2,45 +2,13 @@
 @import url("https://edm-spot.github.io/vip.css");
 
 /* ----------------------------------------Main---------------------------------------- */
-#room .app-header,
-#app-menu,
-#app-menu .list,
-#footer,
-#history-button {
-    background: #000000;
-}
-
-#app-menu .list,
-#app-menu .list a,
-#app-menu .list a:visited {
-    color: #ffffff;
-}
-
-#room-bar .icon-room {
-    top: 2px;
-    left: 5px;
-    width: 45px;
-    height: 50px;
-    background-size: contain !important;
-}
-
-#room-host,
-#room-name {
-    left: 54px;
-}
-
 /* Icon fix :before */
 div.message > div.msg > div.from > span.un {
     vertical-align: top;
     horizontal-align: left;
 }
 
-/* Buttons */
-#history-button,
-#rs-skip-button {
-    background: #000000 !important;
-}
-
+/* Reserved
 #woot i.icon,
 #grab i.icon,
 #meh i.icon {
@@ -49,17 +17,16 @@ div.message > div.msg > div.from > span.un {
     background-position: center center;
 }
 
-/* Not working with new plug UI. They were a little cheesy, anyways.
 #woot i.icon {
-    background-image: url("https://nightbloo.github.io/plug/icons/woot.png");
+    background-image: url("");
 }
 
 #grab i.icon {
-    background-image: url("https://nightbloo.github.io/plug/icons/grab.png");
+    background-image: url("");
 }
 
 #meh i.icon {
-    background-image: url("https://nightbloo.github.io/plug/icons/meh.png");
+    background-image: url("");
 }
 */
 
@@ -307,12 +274,10 @@ div.message > div.msg > div.from > span.un {
 
 /* Custom */
 
-/*
 #user-rollover.id-4093788 .username:hover,
 #chat [data-cid^="4093788-"] span.un.clickable:hover {
     animation: rainbow 10s infinite;
 }
-*/
 
 #user-rollover.id-13585808 .info .role span:after {
     content: ' / OtterBot Dev';

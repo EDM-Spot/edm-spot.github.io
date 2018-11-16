@@ -9,26 +9,16 @@
     background-position: center center !important;
 }
 
-/* BurgerIsGooo */
-#user-rollover.id-26609840 .badge-box i.bdg,
-.id-26609840 .badge-box i.bdg {
-    background-image: url("https://edm-spot.github.io/badges/burgerisgooo.gif");
-}
-
 /* DJ HoneyPants */
 #user-rollover.id-39639729 .badge-box i.bdg,
 .id-39639729 .badge-box i.bdg {
     background-image: url("https://edm-spot.github.io/badges/Honeypants.jpg");
 }
+
 /* Dukc */
 #user-rollover.id-8203880 .badge-box i.bdg,
 .id-8203880 .badge-box i.bdg {
     background-image: url("https://edm-spot.github.io/badges/dukc.gif");
-}
-/* iHook */
-#user-rollover.id-26603056 .badge-box i.bdg,
-.id-26603056 .badge-box i.bdg {
-    background-image: url("https://edm-spot.github.io/badges/ihook.gif");
 }
 
 /* Imanolix */
@@ -70,8 +60,7 @@
 /* OtterBot */
 #user-rollover.id-40333310 .badge-box i.bdg,
 .id-40333310 .badge-box i.bdg {
-    background-image: url("https://image.ibb.co/b5b7Me/ezgif_com_resize.gif");
-    background-size: cover !important;
+    background-image: url("https://edm-spot.github.io/badges/otter.gif");
 }
 
 /* PukeJeans */
