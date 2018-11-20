@@ -80,6 +80,12 @@
     background-image: url("https://edm-spot.github.io/badges/PukeJeans.gif");
 }
 
+/* Rootz */
+#user-rollover.id-40796384 .badge-box i.bdg,
+.id-40796384 .badge-box i.bdg {
+    background-image: url("https://edm-spot.github.io/badges/rootz.png");
+}
+
 /* Teddy */
 #user-rollover.id-3788262 .badge-box i.bdg,
 .id-3788262 .badge-box i.bdg {
