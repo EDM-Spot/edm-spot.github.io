@@ -14,8 +14,7 @@
 }
 
 #user-rollover.id-40333310 .badge-box i.bdg,
-#chat-messages .id-40333310 .badge-box i.bdg,
-.id-40333310 .no-badge i {
+#chat-messages .id-40333310 .badge-box i.bdg {
     background-image: url("https://edmspot.tk/public/images/badges/otterxmas.jpg");
     background-size: cover;
     width: 100%;
