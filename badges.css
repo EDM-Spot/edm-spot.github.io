@@ -6,24 +6,23 @@
     transform: scale(1) !important;
 }
 
-#user-rollover .info .badge-box,
-#chat-messages .badge-box i.bdg {
-    background:          none !important;
-    background-size:     cover !important;
-    background-repeat:   no-repeat !important;
-    background-position: center center !important;
-    width:               100% !important;
-    height:              100% !important;
-}
-
 /* OtterBot */
-#user-rollover.id-40333310 .badge-box i.bdg,
-.id-40333310 .no-badge i {
-    background-image: url("https://edmspot.tk/public/images/badges/otterxmas.jpg");
-}
-
 #chat-messages .id-40333310 .badge-box:hover {
     width: 65px;
     height: 65px;
     transition: 0.4s;
+}
+
+#user-rollover.id-40333310 .badge-box i.bdg,
+.id-40333310 .no-badge i {
+    background-image: url("https://edmspot.tk/public/images/badges/otterxmas.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 0px solid #444A59;
+    border-radius: 0;
 }
