@@ -1,8 +1,13 @@
 /* Custom Badges */
 
 /* General */
+#chat .badge-box i,
+.right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;
+}
+
 #user-rollover .info .badge-box,
-#chat-messages .badge-box {
+#chat-messages .badge-box i.bdg {
     background:          none !important;
     background-size:     cover !important;
     background-repeat:   no-repeat !important;
@@ -13,13 +18,12 @@
 
 /* OtterBot */
 #user-rollover.id-40333310 .badge-box i.bdg,
-.id-40333310 .badge-box i.bdg {
+.id-40333310 .no-badge i {
     background-image: url("https://edmspot.tk/public/images/badges/otterxmas.jpg");
 }
 
-.id-40333310 > .badge-box:hover
-{
-	width: 65px;
-	height: 65px;
-	transition: 0.4s;
+#chat-messages .id-40333310 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
 }
