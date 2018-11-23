@@ -1,5 +1,3 @@
-@import url("https://edmspot.tk/public/css/badges.css");
-
 /* Custom Badges */
 
 /* General */
@@ -17,4 +15,11 @@
 #user-rollover.id-40333310 .badge-box i.bdg,
 .id-40333310 .badge-box i.bdg {
     background-image: url("https://edmspot.tk/public/images/badges/otterxmas.jpg");
+}
+
+.id-40333310 > .badge-box:hover
+{
+	width: 65px;
+	height: 65px;
+	transition: 0.4s;
 }
