@@ -5,7 +5,7 @@
 .right-side-wrapper #chat .badge-box .icon-arrow-down {
     transform: scale(1) !important;
 }
-#chat-messages .badge-box
+#chat-messages .badge-box {
     background: none !important;
 }
 
