@@ -82,6 +82,7 @@ div.message > div.msg > div.from > span.un {
     -ms-animation: fadein 1s;
     -o-animation: fadein 1s;
     animation: fadein 1s;
+    width: inherit !important;
 }
 
 /* Inline */
