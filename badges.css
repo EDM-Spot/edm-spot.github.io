@@ -5,6 +5,9 @@
 .right-side-wrapper #chat .badge-box .icon-arrow-down {
     transform: scale(1) !important;
 }
+#chat-messages .badge-box
+    background: none !important;
+}
 
 /* OtterBot */
 #chat-messages .id-40333310 .badge-box:hover {
