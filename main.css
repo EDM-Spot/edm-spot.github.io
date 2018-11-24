@@ -182,36 +182,42 @@ div.message > div.msg > div.from > span.un {
 .emote.role-dj {
     border-left: #33CCFF 2px dotted;
     border-right: #33CCFF 2px dotted;
+    display: inline !important;
 }
 
 .message.role-bouncer,
 .emote.role-bouncer {
     border-left: #9B40E7 2px dotted;
     border-right: #9B40E7 2px dotted;
+    display: inline !important;
 }
 
 .message.role-manager,
 .emote.role-manager {
     border-left: #CC3333 2px dotted;
     border-right: #CC3333 2px dotted;
+    display: inline !important;
 }
 
 .message.role-cohost,
 .emote.role-cohost {
     border-left: #ffbd01 2px dotted;
     border-right: #ffbd01 2px dotted;
+    display: inline !important;
 }
 
 .message.role-host,
 .emote.role-host {
     border-left: #ffd83f 2px dotted;
     border-right: #ffd83f 2px dotted;
+    display: inline !important;
 }
 
 .message.role-ambassador,
 .emote.role-ambassador {
     border-left: #89BE6C 2px dotted;
     border-right: #89BE6C 2px dotted;
+    display: inline !important;
 }
 
 .message.role-dj:hover,
@@ -228,6 +234,7 @@ div.message > div.msg > div.from > span.un {
 .emote.role-ambassador:hover {
     border-left-style: solid;
     border-right-style: solid;
+    display: inline !important;
 }
 
 .message.role-host .msg .text::selection,
@@ -306,11 +313,13 @@ div.message > div.msg > div.from > span.un {
 #chat .cm.emote.id-13585808 {
     border-left: #ad1457 2px dotted !important;
     border-right: #ad1457 2px dotted !important;
+    display: inline !important;
 }
 #chat .cm.message.id-13585808:hover,
 #chat .cm.emote.id-13585808:hover {
     border-left-style: solid !important;
     border-right-style: solid !important;
+    display: inline !important;
 }
 .emote.id-13585808 .text {
     color: #ad1457 !important;
