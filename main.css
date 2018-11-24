@@ -82,6 +82,7 @@ div.message > div.msg > div.from > span.un {
     -ms-animation: fadein 1s;
     -o-animation: fadein 1s;
     animation: fadein 1s;
+    min-width: 100%;
 }
 
 /* Inline */
@@ -183,7 +184,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #33CCFF 2px dotted;
     border-right: #33CCFF 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-bouncer,
@@ -191,7 +191,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #9B40E7 2px dotted;
     border-right: #9B40E7 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-manager,
@@ -199,7 +198,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #CC3333 2px dotted;
     border-right: #CC3333 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-cohost,
@@ -207,7 +205,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #ffbd01 2px dotted;
     border-right: #ffbd01 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-host,
@@ -215,7 +212,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #ffd83f 2px dotted;
     border-right: #ffd83f 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-ambassador,
@@ -223,7 +219,6 @@ div.message > div.msg > div.from > span.un {
     border-left: #89BE6C 2px dotted;
     border-right: #89BE6C 2px dotted;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-dj:hover,
@@ -241,7 +236,6 @@ div.message > div.msg > div.from > span.un {
     border-left-style: solid;
     border-right-style: solid;
     display: inline-block !important;
-    width: inherit !important;
 }
 
 .message.role-host .msg .text::selection,
@@ -321,14 +315,12 @@ div.message > div.msg > div.from > span.un {
     border-left: #ad1457 2px dotted !important;
     border-right: #ad1457 2px dotted !important;
     display: inline-block !important;
-    width: inherit !important;
 }
 #chat .cm.message.id-13585808:hover,
 #chat .cm.emote.id-13585808:hover {
     border-left-style: solid !important;
     border-right-style: solid !important;
     display: inline-block !important;
-    width: inherit !important;
 }
 .emote.id-13585808 .text {
     color: #ad1457 !important;
