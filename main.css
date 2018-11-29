@@ -30,6 +30,15 @@ div.message > div.msg > div.from > span.un {
 }
 */
 
+/* ----------------------------------------RCS Vote Fix---------------------------------------- */
+.community .room-controls {
+    z-index: 1 !important;
+}
+
+.votes-rs {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+
 /* ----------------------------------------Chat---------------------------------------- */
 #chat .welcome {
     color: #27b2e9;
