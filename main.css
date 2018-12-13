@@ -307,6 +307,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 .id-13585808 .msg .from.manager .un,
+.id-13585808 .from .un,
 #chat [data-cid^="13585808-"] span.un.clickable,
 #waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager + span,
 #user-rollover.id-13585808 .info .role span,
