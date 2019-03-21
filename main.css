@@ -11,7 +11,7 @@ div.message > div.msg > div.from > span.un {
 }
 
 /* RDJ Icon fix */
-#user-lists .list.room .user i.icon-chat-dj, {
+#user-lists .list.room .user i.icon-chat-dj,
 #chat-messages .from .icon.icon-chat-dj {
     top: unset !important;
 }
