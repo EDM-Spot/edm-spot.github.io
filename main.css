@@ -23,6 +23,10 @@ div.message > div.msg > div.from > span.un {
     top: 2px !important;
 }
 
+#user-rollover .info .role i.icon-chat-dj {
+    margin-top: unset !important;
+}
+
 /* Reserved
 #woot i.icon,
 #grab i.icon,
