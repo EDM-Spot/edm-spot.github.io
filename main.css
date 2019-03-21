@@ -19,10 +19,6 @@ div.message > div.msg > div.from > span.un {
     top: unset !important;
 }
 
-#user-rollover .info .role i.icon-chat-dj {
-    margin-top: unset !important;
-}
-
 #waitlist .list .user .meta.is-staff .name i.icon-chat-dj {
     top: 2px !important;
 }
