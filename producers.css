@@ -32,3 +32,14 @@
     top: 140px;
     left: 130px;
 }
+
+#chat-messages .rs-log-now-playing.id-3963829 .badge-box i.bdg {
+    background-image: url("https://edm-spot.github.io/icons/producerbadge.png") !important;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
