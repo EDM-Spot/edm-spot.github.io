@@ -10,21 +10,27 @@ div.message > div.msg > div.from > span.un {
     horizontal-align: left;
 }
 
-/* RDJ Icon fix */
+/* Icon fix */
 #user-lists .list.room .user i.icon-chat-dj {
     top: 6px !important;
 }
 
+#chat-messages .from .icon,
 #chat-messages .from .icon.icon-chat-dj {
     top: unset !important;
 }
 
+#waitlist .list .user .name i,
 #waitlist .list .user .meta.is-staff .name i.icon-chat-dj {
     top: 2px !important;
 }
 
 #user-rollover .info .role i.icon-chat-dj {
     margin-top: unset !important;
+}
+
+#user-lists .list.room .user i {
+    top: 6px !important;
 }
 
 /* Reserved
