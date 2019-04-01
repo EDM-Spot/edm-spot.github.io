@@ -320,7 +320,7 @@ div.message > div.msg > div.from > span.un {
     content: ' / OtterBot Dev';
 }
 
-.id-13585808 .msg .from i.icon-chat-manager,
+/*.id-13585808 .msg .from i.icon-chat-manager,
 #waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager,
 #user-rollover.id-13585808 .info .role i.icon-chat-manager,
 #user-lists .list.room .user.id-13585808 .icon-chat-manager {
@@ -353,7 +353,7 @@ div.message > div.msg > div.from > span.un {
 }
 .emote.id-13585808 .text {
     color: #ad1457 !important;
-}
+}*/
 
 /* -------------------------------------Animations------------------------------------- */
 /* Chat Fade */
