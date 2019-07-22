@@ -34,7 +34,7 @@
             "playback": "https://edm-spot.github.io/background/VideoGlow.png"
         },
         "rules": {
-            "allowAutojoin": "true",
+            "allowAutojoin": "false",
             "allowAutorespond": "false",
             "allowAutowoot": "true",
             "allowEmotes": "true",
