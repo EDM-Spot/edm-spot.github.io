@@ -72,6 +72,7 @@ div.message > div.msg > div.from > span.un {
     border-left: #27b2e9 2px dotted;
     border-bottom: #27b2e9 2px dotted;
     border-right: #27b2e9 2px dotted;
+    font-size: 23px;
 }
 
 #chat .log {
