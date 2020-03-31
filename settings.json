@@ -26,7 +26,7 @@
 		"user": null
 	},
 	"images": {
-		"background": "https://edm-spot.github.io/background/winter.jpg",
+		"background": null,
 		"playback": "https://edm-spot.github.io/background/VideoGlow.png",
 		"admin": null,
 		"ambassador": null,
