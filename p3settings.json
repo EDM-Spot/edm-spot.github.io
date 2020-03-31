@@ -20,7 +20,7 @@
             "rule": {}
         },
         "images": {
-            "background": "",
+            "background": "https://edm-spot.github.io/background/Clouds.jpg",
             "booth": "",
             "icons": {
                 "admin": "",
